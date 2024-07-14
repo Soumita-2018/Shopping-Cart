@@ -1,4 +1,4 @@
-![Screenshot 2024-07-14 170602](https://github.com/user-attachments/assets/b98ded92-d187-4d11-abac-ea83129bbe76)# Shopping Cart
+# Shopping Cart
 This repository contains two versions of a Shopping Cart application implemented in Core Java. One version uses Java arrays, and the other uses Java collections like ArrayList, LinkedList, and HashSet. Both versions provide a dashboard for performing CRUD operations on products and display all orders without involving any DBMS. The application also adheres to a layered architecture
 ## Table of Contents
 - [Features](#features)
@@ -35,9 +35,8 @@ This repository contains two versions of a Shopping Cart application implemented
 
 ### Create Product
 
-![Create Product](![![Screenshot 2024-07-14 170602](https://github.com/user-attachments/assets/853f79b2-f5bc-4ad4-9d0e-c60d85ebfde8)
-]()
-)
+![Create Product](![Screenshot 2024-07-14 170602](https://github.com/user-attachments/assets/853f79b2-f5bc-4ad4-9d0e-c60d85ebfde8))
+
 
 ### View Products
 
